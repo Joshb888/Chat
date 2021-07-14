@@ -1,0 +1,8 @@
+{
+    "chat": {
+        "url": "http://api.brainshop.ai/get",
+        "bid": "YOUR BRAINSHOP BID",
+        "key": "YOUR BRAINSHOP KEY",
+        "uid": "NAME OF BOT"
+    }
+}
